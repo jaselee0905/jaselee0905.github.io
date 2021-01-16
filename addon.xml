@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.jaselee" version="1.0.0" name="jaselee repo" provider-name="jaselee">
-    <extension point="xbmc.addon.repository" name="jaselee">
+<addon id="repository.mythril" version="1.0.0" name="mythril repo" provider-name="jaselee">
+    <extension point="xbmc.addon.repository" name="mythril">
         <info compressed="false">https://aznhusband.github.io/addons.xml</info>
         <checksum>https://aznhusband.github.io/addons.xml.md5</checksum>
         <datadir zip="true">https://aznhusband.github.io/</datadir>
@@ -18,8 +18,8 @@
 		    <datadir zip="true">https://raw.githubusercontent.com/nixgates/nixgates/master/packages</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">jaselee</summary>
-        <description lang="en">jaselee kodi repo</description>
+        <summary lang="en"></summary>
+        <description lang="en"></description>
         <platform>all</platform>
     </extension>
 </addon>
